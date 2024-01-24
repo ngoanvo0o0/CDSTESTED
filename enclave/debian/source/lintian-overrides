@@ -1,0 +1,2 @@
+shared-lib-without-dependency-information usr/lib/cds/enclave/*.so
+shlib-with-executable-stack usr/lib/cds/enclave/*.so
